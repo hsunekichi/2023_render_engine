@@ -1,0 +1,399 @@
+# Blender 3.6.4 MTL File: 'SketchFab_Yennefer.blend'
+# www.blender.org
+
+newmtl 6_part1-part7-mesh2_0.1_16_16.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd Hair.png
+map_d Hair.png
+
+newmtl 8x8.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd LargeFlame01_tif.png
+map_Ke LargeFlame01_tif.png
+map_d LargeFlame01_tif.png
+
+
+newmtl Bubbles.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd BubbleAlpha.png
+map_d BubbleAlpha.png
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd xBilder.baked.8k_4k_Q90.jpg
+
+newmtl Material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd xFeuertopf.baked.4k_1k_Q90.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd xHorse.baked.4k_1k_Q90.jpg
+
+newmtl Material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd xHolz.baked.8k_4k_Q90.jpg
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd xKrams.baked.8k_4k_Q90.jpg
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd xSteine.baked.8k_4k_Q90.jpg
+
+newmtl Material.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd xBlanked.baked.4k_1k_Q90.jpg
+
+newmtl MaderaGeneral
+illum 6
+Pr 0.4
+eta 1 1 1
+k 1 1 1
+map_Kd xfurniture.v_baked.16k_4k_Q90.jpg
+
+newmtl Material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd xfurniture.h.baked.8k_2k_Q90.jpg
+
+newmtl BiomboInterior
+illum 6
+Pr 0.4
+eta 1 1 1
+k 1 1 1
+map_Kd xTeppich_Alpha.4k.png
+
+newmtl Material.017
+Ns 250.000000
+Ka 0 0 0
+Ks 0.100000 0.100000 0.100000
+Ke 0 0 0
+Ni 1.450000
+d 1.000000
+illum 1
+Pr 0.3
+eta 0.16761 0.14512 0.13547
+k 4.2867 3.1900 2.3808
+map_Kd xSeife.Yenn2.2k_1k_Q90.jpg
+hasIndirect 0
+
+newmtl Material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.036364 0.036364 0.036364
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd diving.png
+map_d diving.png
+
+
+newmtl Scabbard
+Ns 490.000000
+Ka 0.700000 0.700000 0.700000
+Kd 0.000742 0.000553 0.003916
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl ScabbardChape
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Sword_Diffuse_4k.bmp
+map_Ns Sword_Rough.png
+map_Bump -bm 1.000000 Sword_Normal.png
+
+newmtl ScabbardLowerBelt
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000074 0.001000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns Sword_Rough.png
+
+newmtl ScabbardNameplate
+Ka 1.000000 1.000000 1.000000
+Kd 0.760525 0.682497 0.556716
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns Sword_Rough.png
+map_Bump -bm 1.000000 Sword_Normal.png
+
+newmtl ScabbardUpperBelt
+Ka 1.000000 1.000000 1.000000
+Kd 0.002273 0.002046 0.002046
+Ks 0.150000 0.150000 0.150000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Ns Sword_Rough.png
+
+newmtl candel.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+Kd 3 3 3
+illum 0
+map_Kd candel.png
+map_d candel.png
+makesShadow 0
+
+
+newmtl yen_eyelashes
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd eyelashes.png
+map_d eyelashes.png
+
+newmtl eyelashes
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0 0 0
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+
+newmtl Bathtub
+Pr 0.15
+illum 4
+eta 0.44600 0.52700 1.0940
+k 4.1060 2.7650 1.8290
+# eta 0.169 0.421 0.45
+# k 3.88 2.343 1.770
+# Kd 0.25 0.15 0.05
+map_Kd xBathtub.2k_1k_Q90.jpg
+
+newmtl Objetos
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 2
+map_Kd xKrams.baked.8k_4k_Q90.jpg
+
+newmtl Hair
+illum 6
+Pr 0.3
+eta 1 1 1
+k 1 1 1
+illum 6
+map_Kd hair_curly_01_d02.png
+
+newmtl yenBody
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.002
+illum 7
+sigmaS 0.74 0.88 1.01
+sigmaA 0.032 0.17 0.48
+Kd 1.2898 1.162352 1.019608
+Ni 1.3
+map_Kd xYenn_4k.jpg
+makesShadow 0
+
+newmtl candleWax
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 7
+sigmaS 1.09 1.59 1.79
+sigmaA 0.013 0.070 0.145
+# Kd 0.9 0.376 0.153
+# Kd 0.1782 0.074448 0.030096
+Kd 0.1485 0.06204 0.02508
+Ni 1.3
+map_Kd xKrams.baked.8k_4k_Q90.jpg
+makesShadow 0
+
+newmtl candleWax.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 7
+sigmaS 1.09 1.59 1.79
+sigmaA 0.023 0.080 0.155
+# Kd 0.9 0.376 0.153
+# Kd 0.1782 0.074448 0.030096
+Kd 0.126 0.0527 0.021318
+Ni 1.3
+map_Kd xKrams.baked.8k_4k_Q90.jpg
+makesShadow 0
+
+
+# ############################# Ciri blade ###############################
+
+newmtl endCiri
+illum 4
+PrX 0.6
+PrY 0.4
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+# map_Kd handmetal_diffuse.bmp
+
+newmtl handguardCiri
+illum 4
+Pr 0.4
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+# map_Kd handguard_diffuse.bmp
+
+newmtl bladeCiri
+illum 4
+Pr 0.4
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+# map_Kd blade_diffuse.bmp
+
+newmtl handleCiri
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 6
+Pr 0.7
+eta 0.44600 0.52700 1.0940
+k 4.1060 2.7650 1.8290
+map_Kd handle_diffuse.bmp
+
+newmtl handmetalCiri
+illum 4
+Pr 0.5
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+# map_Kd handmetal_diffuse.bmp
+
+
+# ############################### Aerondoight ###################
+
+newmtl HandleAerondoight
+Ns 250.000000
+Ka 0.400000 0.400000 0.400000
+Kd 0.06162 0.04439 0.04439
+Ks 0.214545 0.214545 0.214545
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl BladeAerondoight
+illum 4
+Pr 0.4
+eta 0.16761 0.14512 0.13547
+k 4.2867 3.1900 2.3808
+
+newmtl PommelAerondoight
+illum 4
+Pr 0.4
+eta 0.16761 0.14512 0.13547
+k 4.2867 3.1900 2.3808

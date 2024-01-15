@@ -1,0 +1,122 @@
+
+# gold
+# eta 0.169 0.421 0.45
+# k 3.88 2.343 1.770
+
+# silver
+eta 0.16761 0.14512 0.13547
+k 4.2867 3.1900 2.3808
+
+# copper
+# eta 0.212 0.676 1.31
+# k 4.1 2.624 2.29
+
+# iron
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+
+# brass
+eta 0.44600 0.52700 1.0940
+k 4.1060 2.7650 1.8290
+
+newmtl CandleWax
+sigmaS 0.44 0.88 1.01
+sigmaA 0.032 0.17 0.48
+# Kd 0.44 0.22 0.13
+Ni 1.3
+
+newmtl skin2
+sigmaS 1.09 1.59 1.79
+sigmaA 0.013 0.070 0.145
+# Kd 0.63 0.44 0.34
+Ni 1.3
+
+newmtl skin1
+sigmaS 0.74 0.88 1.01
+sigmaA 0.032 0.17 0.48
+# Kd 0.44 0.22 0.13
+Ni 1.3
+
+newmtl Bathtub
+PrX 0.8
+PrY 0.6
+illum 4
+eta 0.44600 0.52700 1.0940
+k 4.1060 2.7650 1.8290
+map_Kd xBathtub.2k_1k_Q90.jpg
+
+newmtl BiomboInterior
+illum 6
+Pr 0.4
+eta 1 1 1
+k 1 1 1
+map_Kd xTeppich_Alpha.4k.png
+
+newmtl MaderaGeneral
+illum 6
+Pr 0.4
+eta 1 1 1
+k 1 1 1
+map_Kd xfurniture.v_baked.16k_4k_Q90.jpg
+
+newmtl Objetos
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 2
+map_Kd xKrams.baked.8k_4k_Q90.jpg
+
+newmtl Hair
+illum 6
+Pr 0.3
+eta 1 1 1
+k 1 1 1
+illum 6
+map_Kd hair_curly_01_d02.png
+
+
+
+# ############################# Ciri blade ###############################
+
+newmtl endCiri
+illum 4
+PrX 0.6
+PrY 0.4
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+# map_Kd handmetal_diffuse.bmp
+
+newmtl handguardCiri
+illum 4
+Pr 0.4
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+# map_Kd handguard_diffuse.bmp
+
+newmtl bladeCiri
+illum 4
+Pr 0.4
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+# map_Kd blade_diffuse.bmp
+
+newmtl handleCiri
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ni 1.450000
+illum 6
+Pr 0.7
+eta 0.44600 0.52700 1.0940
+k 4.1060 2.7650 1.8290
+map_Kd handle_diffuse.bmp
+
+newmtl handmetalCiri
+illum 4
+Pr 0.5
+eta 2.8653 2.9497 2.5845
+k 3.1820 2.9318 2.7670
+# map_Kd handmetal_diffuse.bmp
+
+
+# ############################### Aerondoight ###################
+
